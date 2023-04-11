@@ -1,16 +1,20 @@
-
+*{
+    background-color: black;
+}
 body {
   margin: 0;
   padding: 0;
-  background: url(./assets/img/bg.png);
+  background: url('bg.png');
   background-size: cover;
   font-family: sans-serif;
+  background-repeat: no-repeat;
 }
+
 
 .loginBox {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 20%;
   transform: translate(-50%, -50%);
   width: 350px;
   height: 420px;
