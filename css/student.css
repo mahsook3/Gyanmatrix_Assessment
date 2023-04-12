@@ -1,0 +1,1212 @@
+.student-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .student-students {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(246, 222, 255, 1);
+  }
+  .student-image298cd4ffd68b87514b6cd7e390ac52791 {
+    top: 0px;
+    left: 1440px;
+    width: 1440px;
+    height: 1028px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle50 {
+    top: 73px;
+    left: 74px;
+    width: 1293px;
+    height: 878px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-group61 {
+    top: 13.00002670288086px;
+    left: 29px;
+    width: 266px;
+    height: 116.50813293457031px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-text {
+    top: 55.01047134399414px;
+    left: 19px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .student-group {
+    top: 19.64078140258789px;
+    left: 0px;
+    width: 55.67103576660156px;
+    height: 103.52410888671875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-rectangle30 {
+    top: 63.70714569091797px;
+    left: 25.406911849975586px;
+    width: 5px;
+    height: 40px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle31 {
+    top: 46.453125px;
+    left: 25.406911849975586px;
+    width: 5px;
+    height: 14px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-star1 {
+    top: 13.714733123779297px;
+    left: 14.571612358093262px;
+    width: 27px;
+    height: 33px;
+    position: absolute;
+  }
+  .student-star4 {
+    top: 11.945089340209961px;
+    left: 38.484004974365234px;
+    width: 17px;
+    height: 21px;
+    position: absolute;
+  }
+  .student-star5 {
+    top: 11.502677917480469px;
+    left: 0px;
+    width: 17px;
+    height: 21px;
+    position: absolute;
+  }
+  .student-star2 {
+    top: 33.18080520629883px;
+    left: 38.11037063598633px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .student-star6 {
+    top: 0px;
+    left: 33.25316619873047px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .student-star3 {
+    top: 33.62321472167969px;
+    left: 7.0989909172058105px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .student-star7 {
+    top: 0.44241073727607727px;
+    left: 14.197981834411621px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .student-group67 {
+    top: 37px;
+    left: 958px;
+    width: 447px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-group63 {
+    top: 0px;
+    left: 285px;
+    width: 162px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-frame63 {
+    top: 28px;
+    left: 34px;
+    display: flex;
+    padding: 4px 36px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 13px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .student-text02 {
+    color: rgba(255, 255, 255, 0.699999988079071);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photo20230314180919 {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 83px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-group62 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-frame62 {
+    top: 28px;
+    left: 47px;
+    display: flex;
+    padding: 4px 36px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 13px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .student-text04 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photo20230314180921 {
+    top: 0px;
+    left: 0px;
+    width: 83px;
+    height: 83px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-group71 {
+    top: 136px;
+    left: 83px;
+    width: 1274px;
+    height: 751px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-group70 {
+    top: 398px;
+    left: 0px;
+    width: 1274px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-studentlistingcard {
+    top: 0px;
+    left: 456px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-group60 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-rectangle45 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .student-frame {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo202303132057501 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-nameplate {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .student-text06 {
+    top: 2.34423828125px;
+    left: 68px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photoframe {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo20230312114307 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-photo20230312103338 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle49 {
+    top: 108px;
+    left: 108px;
+    width: 144px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-studentlistingcard1 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-group601 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-rectangle451 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .student-frame1 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo2023031320575011 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-nameplate1 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .student-text08 {
+    top: 2.34423828125px;
+    left: 42px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photoframe1 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo202303121143071 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-photo202303121033381 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle491 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-studentlistingcard2 {
+    top: 0px;
+    left: 912px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-group602 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-rectangle452 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .student-frame2 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo2023031320575012 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-nameplate2 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .student-text10 {
+    top: 2.34423828125px;
+    left: 54px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photoframe2 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo202303121143072 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-photo202303121033382 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle492 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-group69 {
+    top: 0px;
+    left: 0px;
+    width: 1274px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-studentlistingcard3 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-group603 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-rectangle453 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .student-frame3 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo2023031320575013 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-nameplate3 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .student-text12 {
+    top: 2.34423828125px;
+    left: 43px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photoframe3 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo202303121143073 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-photo202303121033383 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle493 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-studentlistingcard4 {
+    top: 0px;
+    left: 456px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-group604 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-rectangle454 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .student-frame4 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo2023031320575014 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-nameplate4 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .student-text14 {
+    top: 2.34423828125px;
+    left: 52px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photoframe4 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo202303121143074 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-photo202303121033384 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle494 {
+    top: 108px;
+    left: 108px;
+    width: 144px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-studentlistingcard5 {
+    top: 0px;
+    left: 912px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .student-group605 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-rectangle455 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .student-frame5 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo2023031320575015 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-nameplate5 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .student-text16 {
+    top: 2.34423828125px;
+    left: 39px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .student-photoframe5 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .student-photo202303121143075 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-photo202303121033385 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .student-rectangle495 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  

@@ -1,0 +1,2415 @@
+.staff-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .staff-staff {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(246, 222, 255, 1);
+  }
+  .staff-image298cd4ffd68b87514b6cd7e390ac52791 {
+    top: 0px;
+    left: 1440px;
+    width: 1440px;
+    height: 1028px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle50 {
+    top: 73px;
+    left: 74px;
+    width: 1293px;
+    height: 878px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group61 {
+    top: 13px;
+    left: 29px;
+    width: 266px;
+    height: 116.50813293457031px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-text {
+    top: 55.01047134399414px;
+    left: 19px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .staff-group {
+    top: 19.64078140258789px;
+    left: 0px;
+    width: 55.67103576660156px;
+    height: 103.52410888671875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-rectangle30 {
+    top: 63.70714569091797px;
+    left: 25.406911849975586px;
+    width: 5px;
+    height: 40px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle31 {
+    top: 46.453125px;
+    left: 25.406911849975586px;
+    width: 5px;
+    height: 14px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-star1 {
+    top: 13.714733123779297px;
+    left: 14.571612358093262px;
+    width: 27px;
+    height: 33px;
+    position: absolute;
+  }
+  .staff-star4 {
+    top: 11.945089340209961px;
+    left: 38.484004974365234px;
+    width: 17px;
+    height: 21px;
+    position: absolute;
+  }
+  .staff-star5 {
+    top: 11.502677917480469px;
+    left: 0px;
+    width: 17px;
+    height: 21px;
+    position: absolute;
+  }
+  .staff-star2 {
+    top: 33.18080520629883px;
+    left: 38.11037063598633px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-star6 {
+    top: 0px;
+    left: 33.25316619873047px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-star3 {
+    top: 33.62321472167969px;
+    left: 7.0989909172058105px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-star7 {
+    top: 0.44241073727607727px;
+    left: 14.197981834411621px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-group67 {
+    top: 37px;
+    left: 958px;
+    width: 447px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-group63 {
+    top: 0px;
+    left: 285px;
+    width: 162px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-frame63 {
+    top: 28px;
+    left: 34px;
+    display: flex;
+    padding: 4px 36px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 13px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .staff-text02 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photo20230314180919 {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 83px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group62 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-frame62 {
+    top: 28px;
+    left: 47px;
+    display: flex;
+    padding: 4px 36px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 13px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .staff-text04 {
+    color: rgba(255, 255, 255, 0.699999988079071);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photo20230314180921 {
+    top: 0px;
+    left: 0px;
+    width: 83px;
+    height: 83px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group71 {
+    top: 136px;
+    left: 83px;
+    width: 1274px;
+    height: 751px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-group70 {
+    top: 398px;
+    left: 0px;
+    width: 1274px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-teacherlistingcard {
+    top: 0px;
+    left: 456px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group60 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle45 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo202303132057501 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text06 {
+    top: 2.34423828125px;
+    left: 54px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230312114307 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo20230312103338 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle49 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard01 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6001 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4501 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame01 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750101 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate01 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text08 {
+    top: 2.34423828125px;
+    left: 46px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe01 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430701 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333801 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4901 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard02 {
+    top: 0px;
+    left: 912px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6002 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4502 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame02 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750102 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate02 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text10 {
+    top: 2.34423828125px;
+    left: 69px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe02 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430702 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333802 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4902 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group69 {
+    top: 0px;
+    left: 0px;
+    width: 1274px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-teacherlistingcard03 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6003 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4503 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame03 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750103 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate03 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text12 {
+    top: 2.34423828125px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe03 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430703 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333803 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4903 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard04 {
+    top: 0px;
+    left: 456px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6004 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4504 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame04 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750104 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate04 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text14 {
+    top: 2.34423828125px;
+    left: 67px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe04 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430704 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333804 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4904 {
+    top: 108px;
+    left: 108px;
+    width: 144px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard05 {
+    top: 0px;
+    left: 912px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6005 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4505 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame05 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750105 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate05 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text16 {
+    top: 2.34423828125px;
+    left: 72px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe05 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430705 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333805 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4905 {
+    top: 108px;
+    left: 108px;
+    width: 144px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-staff1 {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(246, 222, 255, 1);
+  }
+  .staff-image298cd4ffd68b87514b6cd7e390ac527911 {
+    top: 0px;
+    left: 1440px;
+    width: 1440px;
+    height: 1028px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle501 {
+    top: 73px;
+    left: 74px;
+    width: 1293px;
+    height: 878px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group611 {
+    top: 13px;
+    left: 29px;
+    width: 266px;
+    height: 116.50813293457031px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-text18 {
+    top: 55.01047134399414px;
+    left: 19px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .staff-group1 {
+    top: 19.64078140258789px;
+    left: 0px;
+    width: 55.67103576660156px;
+    height: 103.52410888671875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-rectangle301 {
+    top: 63.70714569091797px;
+    left: 25.406911849975586px;
+    width: 5px;
+    height: 40px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle311 {
+    top: 46.453125px;
+    left: 25.406911849975586px;
+    width: 5px;
+    height: 14px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-star11 {
+    top: 13.714733123779297px;
+    left: 14.571612358093262px;
+    width: 27px;
+    height: 33px;
+    position: absolute;
+  }
+  .staff-star41 {
+    top: 11.945089340209961px;
+    left: 38.484004974365234px;
+    width: 17px;
+    height: 21px;
+    position: absolute;
+  }
+  .staff-star51 {
+    top: 11.502677917480469px;
+    left: 0px;
+    width: 17px;
+    height: 21px;
+    position: absolute;
+  }
+  .staff-star21 {
+    top: 33.18080520629883px;
+    left: 38.11037063598633px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-star61 {
+    top: 0px;
+    left: 33.25316619873047px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-star31 {
+    top: 33.62321472167969px;
+    left: 7.0989909172058105px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-star71 {
+    top: 0.44241073727607727px;
+    left: 14.197981834411621px;
+    width: 11px;
+    height: 13px;
+    position: absolute;
+  }
+  .staff-group671 {
+    top: 37px;
+    left: 958px;
+    width: 447px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-group631 {
+    top: 0px;
+    left: 285px;
+    width: 162px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-frame631 {
+    top: 28px;
+    left: 34px;
+    display: flex;
+    padding: 4px 36px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 13px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .staff-text20 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photo202303141809191 {
+    top: 0px;
+    left: 0px;
+    width: 72px;
+    height: 83px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group621 {
+    top: 0px;
+    left: 0px;
+    width: 217px;
+    height: 83px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-frame621 {
+    top: 28px;
+    left: 47px;
+    display: flex;
+    padding: 4px 36px;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 13px;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .staff-text22 {
+    color: rgba(255, 255, 255, 0.699999988079071);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photo202303141809211 {
+    top: 0px;
+    left: 0px;
+    width: 83px;
+    height: 83px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group711 {
+    top: 136px;
+    left: 83px;
+    width: 1274px;
+    height: 751px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-group701 {
+    top: 398px;
+    left: 0px;
+    width: 1274px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-teacherlistingcard06 {
+    top: 0px;
+    left: 456px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6006 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4506 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame06 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750106 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate06 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text24 {
+    top: 2.34423828125px;
+    left: 54px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe06 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430706 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333806 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4906 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard07 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6007 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4507 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame07 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750107 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate07 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text26 {
+    top: 2.34423828125px;
+    left: 46px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe07 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430707 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333807 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4907 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard08 {
+    top: 0px;
+    left: 912px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6008 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4508 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame08 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750108 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate08 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text28 {
+    top: 2.34423828125px;
+    left: 69px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe08 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430708 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333808 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4908 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-group691 {
+    top: 0px;
+    left: 0px;
+    width: 1274px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-teacherlistingcard09 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6009 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4509 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame09 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750109 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate09 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text30 {
+    top: 2.34423828125px;
+    left: 44px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe09 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430709 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333809 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4909 {
+    top: 133px;
+    left: 108px;
+    width: 144px;
+    height: 184px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard10 {
+    top: 0px;
+    left: 456px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6010 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4510 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame10 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750110 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate10 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text32 {
+    top: 2.34423828125px;
+    left: 67px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe10 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430710 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333810 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4910 {
+    top: 108px;
+    left: 108px;
+    width: 144px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-teacherlistingcard11 {
+    top: 0px;
+    left: 912px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .staff-group6011 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-rectangle4511 {
+    top: 0px;
+    left: 0px;
+    width: 362px;
+    height: 353px;
+    position: absolute;
+  }
+  .staff-frame11 {
+    top: 50px;
+    left: 86px;
+    width: 190px;
+    height: 301.65576171875px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo20230313205750111 {
+    top: 0px;
+    left: 1.48095703125px;
+    width: 188px;
+    height: 271px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-nameplate11 {
+    top: 266.65576171875px;
+    left: 0px;
+    width: 190px;
+    height: 35px;
+    display: flex;
+    padding: 2px 52px;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+    justify-content: center;
+    background-color: rgba(224, 198, 103, 1);
+  }
+  .staff-text34 {
+    top: 2.34423828125px;
+    left: 72px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Pirata One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .staff-photoframe11 {
+    top: 423px;
+    left: 348px;
+    width: 29px;
+    height: 33.47428512573242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .staff-photo2023031211430711 {
+    top: 0px;
+    left: 29px;
+    width: 29px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-photo2023031210333811 {
+    top: 147px;
+    left: 114px;
+    width: 130px;
+    height: 170px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .staff-rectangle4911 {
+    top: 108px;
+    left: 108px;
+    width: 144px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  
