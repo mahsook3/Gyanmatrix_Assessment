@@ -14,7 +14,7 @@ This is a mobile-responsive website with a Harry Potter wizard houses theme that
 * Fetch API method in JS: The website uses the fetch API method to retrieve data from an external JSON file that contains information about the Hogwarts houses and their characteristics.
 
 ## Credits
-This project was created as part of the GyanMatrix Earn While You Learn Internship program.The staff and student information was sourced from Hogwarts School of Witchcraft and Wizardry archives. Special thanks to our mentor [Mr.Ashok](https://github.com/a8hok/) for their support and feedback throughout the development process.
+This project was created as part of the [GyanMatrix](https://gyanmatrix.com/) Earn While You Learn Internship program.The staff and student information was sourced from Hogwarts School of Witchcraft and Wizardry archives. Special thanks to our mentor [Mr.Ashok](https://github.com/a8hok/) for their support and feedback throughout the development process.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
